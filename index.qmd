@@ -1,7 +1,7 @@
 ---
-title: "mysite"
+title: "Adrian Leung's site"
 ---
 
-This is a Quarto website.
+Hello, I am Adrian Leung. I am currently a part of the UBC MDS cohort 9!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
